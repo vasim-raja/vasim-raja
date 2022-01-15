@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Vasim Raja</h1>
+<h1 align="center">Hi, I'm Vasim Raja👋</h1>
 <h3 align="center">A passionate Data Science aspirant from Central University of Rajasthan, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasim-raja" alt="vasim-raja" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vasimrajaa" target="blank"><img src="https://img.shields.io/twitter/follow/vasimrajaa?logo=twitter&style=for-the-badge" alt="vasimrajaa" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Face Mask Recognition](https://github.com/vasim-raja/Face-Mask-Recognition-1.0)
 
 - 🌱 I’m currently learning **TensorFlow, Keras**
 
-- 💬 Ask me about **I am finishing up my Data Science Course from Central University of Rajasthan, India. It has been just over 1 year since I started and I can see the finish line. My dream job is to work as a Data Analyst at a company that helps to improve the lives of others. I love solving problems, working with data, and coding.**
+- 💬 Ask me about : **I am finishing up my Data Science Course from Central University of Rajasthan, India. It has been just over 1 year since I started and I can see the finish line. My dream job is to work as a Data Analyst at a company that helps to improve the lives of others. I love solving problems, working with data, and coding.**
 
 - 📫 How to reach me **vasimrajav.edu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S4Lz68abZzDz3OSoKoMLCWlxIfhX12i7/view?usp=sharing](https://drive.google.com/file/d/1S4Lz68abZzDz3OSoKoMLCWlxIfhX12i7/view?usp=sharing)
 
-- ⚡ Fun fact **I use tabs instead of space**
+- ⚡ Fun fact : **I use tabs instead of space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
