@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Face Mask Recognition](https://github.com/vasim-raja/Face-Mask-Recognition-1.0)
+- 🔭 I’m currently upgrading [Face Mask Recognition](https://github.com/vasim-raja/Face-Mask-Recognition-1.0)
 
 - 🌱 I’m currently learning **TensorFlow, Keras**
 
