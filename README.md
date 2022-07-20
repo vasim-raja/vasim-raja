@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently building [a GAN network which is capable of generating Synthetic Signals for Human Activity Recognition]
+- 🔭 I’m currently building a GAN network which is capable of generating Synthetic Signals for Human Activity Recognition.
 
 - 🌱 I’m currently learning **TensorFlow, Keras**
 
