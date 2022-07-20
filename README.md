@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently upgrading [Face Mask Recognition](https://github.com/vasim-raja/Face-Mask-Recognition-1.0)
+- 🔭 I’m currently building [a GAN network which is capable of generating Synthetic Signals for Human Activity Recognition]
 
 - 🌱 I’m currently learning **TensorFlow, Keras**
 
-- 💬 Ask me about : **I am finishing up my Data Science Course from Central University of Rajasthan, India. It has been just over 1 year since I started and I can see the finish line. My dream job is to work as a Data Analyst at a company that helps to improve the lives of others. I love solving problems, working with data, and coding.**
+- 💬 Ask me about : **Succcesfully completed my Data Science Course from Central University of Rajasthan, India. Currently doing my Internship as a Data Scientist in KaHa Technologies Private Limited | A subsidiary of KaHa pte. Ltd. Singapore. My dream job is to work as a Data Scientist at a company that helps to improve the lives of others. I love solving problems, working with data, and coding.**
 
 - 📫 How to reach me **vasimrajav.edu@gmail.com**
 
