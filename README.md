@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vasimrajav.edu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S4Lz68abZzDz3OSoKoMLCWlxIfhX12i7/view?usp=sharing](https://drive.google.com/file/d/1S4Lz68abZzDz3OSoKoMLCWlxIfhX12i7/view?usp=sharing)
+- 📄 Know about my experiences : https://drive.google.com/file/d/1_GySvZXrBPBwSy4rH9-6lIX-1-d9Zouo/view?usp=share_link
 
 - ⚡ Fun fact : **I use tabs instead of space**
 
